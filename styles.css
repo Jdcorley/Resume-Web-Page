@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightblue;
+    align-content: center;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 10px
+}
+
+div {
+    border: 2px solid black;
+    width: 500px;
+    margin: 20px;
+    padding: 10px;
+    text-align: left
+}
+header{
+    text-align: right;
+    width: auto
+}
+
+h1,h2{
+    text-decoration: underline;
+}
